@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EquationSolverApp</string>
+    <string name="ImageWithText">TextImage</string>
+    <string name="DetText">Detected Equation</string>
+    <string name="DetButton">Detect</string>
+</resources>

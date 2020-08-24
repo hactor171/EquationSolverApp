@@ -3,4 +3,5 @@
     <string name="ImageWithText">TextImage</string>
     <string name="DetText">Detected Equation</string>
     <string name="DetButton">Detect</string>
+    <string name="LoadButton">Load Image From Gallery</string>
 </resources>
